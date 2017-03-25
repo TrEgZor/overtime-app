@@ -1,7 +1,7 @@
-##Overtime App
+## Overtime App
     Key requirement: company needs documentation that salaried employees did or did not get overtime each week
 
-##Models
+## Models
 - Post - date:date rationale:text
 - User --> Devise
 - AdminUser -> STI
@@ -13,5 +13,5 @@
 - Email summary to managers approval
 - Need ti be documented if employee did not log overtime
 
-##UI:
+## UI:
 Bootstrap --> formatting
